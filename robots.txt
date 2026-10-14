@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Proposta privada. Ativar indexação somente após aprovação da empresa.
+Sitemap: https://projettare-ambientes-olimpia.stony-snipe-7541.chatgpt.site/sitemap.xml

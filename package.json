@@ -1,0 +1,11 @@
+{
+  "name": "projettare-site",
+  "version": "1.1.1",
+  "private": true,
+  "description": "Site institucional editorial da Projettare, sem dependências de execução.",
+  "scripts": {
+    "dev": "node serve.mjs",
+    "check": "node --check app.js",
+    "build": "node build.mjs"
+  }
+}
